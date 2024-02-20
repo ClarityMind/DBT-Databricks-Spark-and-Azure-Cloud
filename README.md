@@ -1,4 +1,4 @@
-# Welcome to your new dbt project!
+# Welcome to my dbt project!
 
 In this project, I set up an end-to-end data engineering pipeline using Apache Spark, Azure Databricks, and the Data Build Tool (DBT) with Azure as my cloud provider. The project illustrates the process of data ingestion to the lakehouse, data integration with Azure Data Factory (ADF), and data transformation with Databricks and DBT.
 
